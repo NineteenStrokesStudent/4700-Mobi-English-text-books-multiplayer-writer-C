@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">913</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd88a92c-65af-492d-b114-c20ce96df60c</dc:identifier>
+        <dc:title>Three Bedrooms, One Corpse</dc:title>
+        <dc:creator opf:file-as="Harris, Charlaine" opf:role="aut">Charlaine Harris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-23T23:08:45+00:00</dc:date>
+        <dc:description>SUMMARY:
+It's a simple if shocking question, and former librarian Aurora Teagarden is just the person to find the answer. Basking in an inheritance that makes her financially independent, Roe's looking for a new occupation. Her days as a librarian are over. Real estate might be fun, she thinks. And who better to teach her the tricks of the trade than her Lauren Bacall look-alike mother, Aida Brattle Teagarden Queensland, who happens to own one of the major real estate firms in town? Signing on as an apprentice, Roe agrees to show an expensive house to some out-of-town clients. The house has its charms, but the clients are not too thrilled with what's been left behind in the master bedroom: the corpse of real estate woman Tonia Lee Greenhouse. And Tonia's only the first victim. It quickly becomes clear that the killer is someone familiar with the real estate community in Lawrenceton, someone who has access to the houses that are on the market. Roe's not too sure she likes real estate, after all. She hadn't counted on murder. But she definitely likes her well-to-do client, Martin Bartell. In fact, it may be love at first sight. With memorable characters and lots of small-town southern charm, this witty and wise mystery proves that author Charlaine Harris is among the best of the new generation of crime writers.</dc:description>
+        <dc:publisher>Berkley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780425220528</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Aurora Teagarden Mysteries" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-23T03:50:04.094000+00:00" name="calibre:timestamp"/>
+        <meta content="Three Bedrooms, One Corpse" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

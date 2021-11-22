@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1966</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">883b1bc4-f501-47b6-8dcb-2620e2045727</dc:identifier>
+        <dc:title>Vegetable Gardening for Dummies</dc:title>
+        <dc:creator opf:file-as="Nardozzi, Charlie" opf:role="aut">Charlie Nardozzi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-08T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+A hands-on guide to the ins and outs of raising and using vegetables    
+
+Want to grow your own vegetables? You can do it the fun and easy way with this practical guide. From selecting the right spot to preparing the soil to harvesting, *Vegetable Gardening For Dummies,* *2nd Edition* shows you how to successfully raise vegetables regardless of the size of your plot or your dietary needs.      
+
+You'll discover how to plot your garden and get the soil in tip-top shape; select the types of vegetables you want to grow; plant the seeds properly; and care for them as they grow. You'll also know the right time to pick your vegetables and the best ways to enjoy them. Plus, you'll get tips on preserving foods grown at home.            Expert advice on planting, caring for, harvesting, and enjoying the fruits of your own vegetable garden      Features environmentally friendly ways to combat pests in your garden      Charlie Nardozzi is senior horticulturist and spokesperson for the National Gardening Association; he's also been the gardening expert on such programs as HGTV's *Today at Home *and *Way to Grow *and the Discovery Channel's *Home Matters*            
+
+Whether you have a green thumb or you've never grown a plant before, *Vegetable Gardening For Dummies,* *2nd Edition *has all the information you need to create a healthy garden.</dc:description>
+        <dc:publisher>For Dummies</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470498705</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-13T22:52:31.849000+00:00" name="calibre:timestamp"/>
+        <meta content="Vegetable Gardening for Dummies" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

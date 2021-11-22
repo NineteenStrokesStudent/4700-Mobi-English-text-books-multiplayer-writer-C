@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f919776-cccb-4e98-9280-73c463fcf480</dc:identifier>
+        <dc:title>The stupidest angel: a heartwarming tale of Christmas terror</dc:title>
+        <dc:creator opf:file-as="Moore, Christopher" opf:role="aut">Christopher Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-30T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Christmas crept into Pine Cove like a creeping Christmas thing: dragging garland, ribbon, and sleigh bells, oozing eggnog, reeking of pine, and threatening festive doom like a cold sore under the mistletoe. 'Twas the night (okay, more like the week) before Christmas, and all through the tiny community of Pine Cove, California, people are busy buying, wrapping, packing, and generally getting into the holiday spirit. It is the hap-hap-happiest time of the year, after all. But not everybody is feeling the joy. Little Joshua Barker is in desperate need of a holiday miracle. No, he's not on his deathbed; no, his dog hasn't run away from home. But Josh is sure that he saw Santa take a shovel to the head, and now the seven-year-old has only one prayer: Please, Santa, come back from the dead. But hold on! There's an angel waiting in the wings. (Wings, get it?) It's none other than the Archangel Raziel come to Earth seeking a small child with a wish that needs granting. Unfortunately, our angel's not sporting the brightest halo in the bunch, and before you can say "Kris Kringle," he's botched his sacred mission and sent the residents of Pine Cove headlong into Christmas chaos, culminating in the most hilarious and horrifying holiday party the town has ever seen. Only Christopher Moore, the man who brought you the outrageous lost gospel Lamb and the hysterical fish tale Fluke could have devised a new holiday classic that tugs at the heartstrings and serves up a healthy slice of fruitcake to boot. Move over, Charles Dickens -- it's Christopher Moore time.</dc:description>
+        <dc:publisher>Morrow</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780060590253</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Humor</dc:subject>
+        <meta content="Pine Cove" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-06-15T09:01:55+00:00" name="calibre:timestamp"/>
+        <meta content="stupidest angel: a heartwarming tale of Christmas terror, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Humor&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

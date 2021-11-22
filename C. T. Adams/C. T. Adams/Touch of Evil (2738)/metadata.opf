@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2738</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9f8e007-b28d-4fdc-9855-ffd9cb68ea64</dc:identifier>
+        <dc:title>Touch of Evil</dc:title>
+        <dc:creator opf:file-as="Adams, C. T. &amp; Clamp, Cathy" opf:role="aut">C. T. Adams</dc:creator>
+        <dc:creator opf:file-as="Adams, C. T. &amp; Clamp, Cathy" opf:role="aut">Cathy Clamp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-12T22:00:00+00:00</dc:date>
+        <dc:description>Kate Reilly has a hard time trusting people.
+
+Six years ago, the love of her life turned her over to the vampire parasites who call themselves the Thrall. Katie survives the powerful bite of the master parasite only to discover that the Thrall's venom, coupled with her own natural psychic ability, has transformed her. Now she is next in line to be the Thrall Queen--and each day might be her last as a human.
+
+Tom, a handsome firefighter, arouses all of Katie's dormant senses, but her heart shies away. After Dylan's betrayal, how can she trust any man—even a seemingly perfect and terribly sexy werewolf?
+
+Tom's sincerity--and sex appeal--begins to wear down Katie's defenses. But his increasingly insistent charm hides a potentially deadly secret: his werewolf pack is hiding the one person who can stop the Thrall from completing Katie's transformation into Queen--and they won't give her up.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Paranormal</dc:subject>
+        <meta content="Thrall Series" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-12T22:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Touch of Evil" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Paranormal&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5993</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efd28f2d-9bec-421d-85e1-059e9bf26e66</dc:identifier>
+        <dc:title>Fate of the Jedi: Omen</dc:title>
+        <dc:creator opf:file-as="Golden, Christie" opf:role="aut">Christie Golden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+The Jedi Order is in crisis. The late Jacen Solo’s shocking transformation into murderous Sith Lord Darth Caedus has cast a damning pall over those who wield the Force for good: Two Jedi Knights have succumbed to an inexplicable and dangerous psychosis, criminal charges have driven Luke Skywalker into self-imposed exile, and power-hungry Chief of State Natasi Daala is exploiting anti-Jedi sentiment to undermine the Order’s influence within the Galactic Alliance.  Forbidden to intervene in Jedi affairs, Luke is on a desperate mission to uncover the truth behind Jacen’s fall to the dark side–and to learn what’s turning peaceful Jedi into raving lunatics. But finding answers will mean venturing into the mind-bending space of the Kathol Rift and bargaining with an alien species as likely to destroy outsiders as deal with them. Still, there is no other choice and no time to lose, as the catastrophic events on Coruscant continue to escalate. Stricken by the same violent dementia that infected her brother, Valin, Jedi Knight Jysella Horn faces an equally grim fate after her capture by Natasi Daala’s police. And when Han and Leia Solo narrowly foil another deranged Jedi bent on deadly destruction, even acting Jedi Grand Master Kenth Hamner appears willing to bow to Daala’s iron will–at the expense of the Jedi Order.But an even greater threat is looming. Millennia in the past, a Sith starship crashed on an unknown low-tech planet, leaving the survivors stranded. Over the generations, their numbers have grown, the ways of the dark side have been nurtured, and the time is fast approaching when this lost tribe of Sith will once more take to the stars to reclaim their legendary destiny as rulers of the galaxy. Only one thing stands in their way, a name whispered to them through the Force: Skywalker.From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345509130</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="Star Wars: Fate of the Jedi" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-17T11:18:33.001000+00:00" name="calibre:timestamp"/>
+        <meta content="Fate of the Jedi: Omen" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

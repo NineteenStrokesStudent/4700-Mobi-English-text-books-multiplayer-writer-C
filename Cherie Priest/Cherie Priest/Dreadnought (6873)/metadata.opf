@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6873</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80223ede-cadd-4efe-a700-50bf94b96831</dc:identifier>
+        <dc:title>Dreadnought</dc:title>
+        <dc:creator opf:file-as="Priest, Cherie" opf:role="aut">Cherie Priest</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T23:37:05.372000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Nurse Mercy Lynch is elbows deep in bloody laundry at a war hospital in Richmond, Virginia, when Clara Barton comes bearing bad news: Mercy’s husband has died in a POW camp. On top of that, a telegram from the west coast declares that her estranged father is gravely injured, and he wishes to see her. Mercy sets out toward the Mississippi River. Once there, she’ll catch a train over the Rockies and—if the telegram can be believed—be greeted in Washington Territory by the sheriff, who will take her to see her father in Seattle.
+
+
+
+Reaching the Mississippi is a harrowing adventure by dirigible and rail through war-torn border states. When Mercy finally arrives in St. Louis, the only Tacoma-bound train is pulled by a terrifying Union-operated steam engine called the *Dreadnought*. Reluctantly, Mercy buys a ticket and climbs aboard.
+
+
+
+What ought to be a quiet trip turns deadly when the train is beset by bushwhackers, then vigorously attacked by a band of Rebel soldiers. The train is moving away from battle lines into the vast, unincorporated west, so Mercy can’t imagine why they’re so interested. Perhaps the mysterious cargo secreted in the second and last train cars has something to do with it?
+
+
+
+Mercy is just a frustrated nurse who wants to see her father before he dies. But she’ll have to survive both Union intrigue and Confederate opposition if she wants to make it off the *Dreadnought *alive.</dc:description>
+        <dc:publisher>Tom Doherty Associates</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765325785</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science-Fiction</dc:subject>
+        <meta content="The Clockwork Century" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-30T23:35:16.475000+00:00" name="calibre:timestamp"/>
+        <meta content="Dreadnought" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science-Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

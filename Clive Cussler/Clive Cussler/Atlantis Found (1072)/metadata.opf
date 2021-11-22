@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1072</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bd40dff-3506-4b72-8802-6616bd8e46d7</dc:identifier>
+        <dc:title>Atlantis Found</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-07-15T07:05:19.315000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Dirk Pitt discovers Atlantis, in a breathtaking novel from the grand master of adventure fiction. Clive Cussler has long since proven himself one of America's most popular authors--a master of intricate, audacious plotting and "vibrant, rollicking narrative" (*Chicago Tribune*). But Atlantis Found may be his most audacious novel of all.September l858: An Antarctic whaler stumbles upon an aged wreck, its grisly frozen crew guarding crates of odd antiquities--and a skull carved from black obsidian.March 200l: A team of anthropologists gazes in awe at a wall of strange inscriptions, moments before a blast seals them deep within the Colorado rock.April 200l: A research ship manned by Dirk Pitt and members of the U.S. National Underwater and Marine Agency is set upon and nearly sunk by an impossibility--a vessel that should have died fifty-six years before.Pitt knows that somehow all these incidents are connected, and his investigations soon land him deep into an ancient mystery with very modern consequences, up against a diabolical enemy unlike any he has ever known, and racing to save not only his own life but the future of the world itself.The trap is set. The clock is ticking. And only one man stands between earth and Armageddon. . . .Filled with dazzling suspense and astonishing set pieces, this is Clive Cussler's greatest adventure novel yet."I've always had tremendous fun with Dirk Pitt, but nothing has given me more pleasure than the opportunity to send him to that most fabled of lost lands, Atlantis, and to virtually reinvent aspects of its civilization. I hope you have as good a time reading Atlantis Found as I did writing it!"--Clive Cussler</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780425177174</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="Dirk Pitt" name="calibre:series"/>
+        <meta content="15" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-11T03:06:09.381000+00:00" name="calibre:timestamp"/>
+        <meta content="Atlantis Found" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

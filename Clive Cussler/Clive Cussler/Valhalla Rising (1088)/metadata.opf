@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1088</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a62aabce-3f10-4af4-ba9d-14f672fe2440</dc:identifier>
+        <dc:title>Valhalla Rising</dc:title>
+        <dc:creator opf:file-as="Cussler, Clive" opf:role="aut">Clive Cussler</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-07-30T07:04:10.689000+00:00</dc:date>
+        <dc:description>SUMMARY:
+The past and the future collide in this "New York Times" bestseller. Confronting an extraordinary series of monsters, both human and mechanical, modern and ancient, NUMA special projects director Dirk Pitt treads upon territory previously known only to legend as he investigates the sinking of a luxury cruise ship, the "Emerald Dolphin." Valhalla Rising, the national bestseller by Clive Cussler, is the 16th entry in the Dirk Pitt series. "Clive Cussler has no equal," writes Publishers Weekly, and he proved it again with the intricate plotting and astonishing set pieces of his number-one bestselling Atlantis Found. Fans wanted to know how he could possibly top it-and the answer is Valhalla Rising. It is July 2003. In the middle of its maiden voyage, the luxury cruise ship Emerald Dolphin suddenly catches fire and sinks. What caused it? Why didn't the alarms go off? What was its connection to the revolutionary new engines powering the ship? NUMA special projects director Dirk Pitt races to rescue the passengers and investigate the disaster, but he has no idea of the bizarre events that are about to engulf him. Before the next few weeks are over, Pitt will find himself confronted by an extraordinary series of monsters, both human and mechanical, modern and ancient. He will tread upon territory previously known only to legend. And, at the end of it all, though many lives will be lost, and many saved, it is Pitt's own life that will be changed forever. . . . Filled with dazzling suspense and breathtaking action, Valhalla Rising is Cussler at the height of his storytelling powers.</dc:description>
+        <dc:publisher>Berkley Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780425185711</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="Dirk Pitt" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-11T03:06:08.304000+00:00" name="calibre:timestamp"/>
+        <meta content="Valhalla Rising" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

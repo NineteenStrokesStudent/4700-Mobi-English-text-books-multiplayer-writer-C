@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6856</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3503bb62-aa2f-4c2e-a9af-c8fbd6e3d921</dc:identifier>
+        <dc:title>Raising Jake</dc:title>
+        <dc:creator opf:file-as="Carillo, Charlie" opf:role="aut">Charlie Carillo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-01T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+In Charlie Carillo's funny, insightful novel, a divorced man gets to know his seventeen-year-old son in a tale that rewrites the book on quality time together...Sammy Sullivan is working his way down the ladder of success. Divorced and pushing fifty, his relationships have the longevity of a fruit fly. But how many men can get themselves fired and have their only son expelled from prep school all in one day? Now, after almost eighteen years, he and Jake may finally get to know each other. (That's if his ex-wife - the super-achiever Sammy can only dream of being - doesn't find out.) Jake knows virtually nothing about his roots. So, Sammy shows him the old neighborhood in the far reaches of Queens. But it's been thirty years. The older woman Sammy lost his virginity to now uses a walker to get around. Most of his hangouts are long gone. It's dreary, born-to-lose stuff. But Jake is on a mission. Wise beyond his (and his dad's) years, he doesn't want his father to miss out the second time around on the good things he blew the first time.  And they've got a whole weekend together - a journey where Sammy will confront his, dysfunctional childhood and Jake will face a past he never knew he had.</dc:description>
+        <dc:publisher>Kensington Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780758235046</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-30T10:32:25.300000+00:00" name="calibre:timestamp"/>
+        <meta content="Raising Jake" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

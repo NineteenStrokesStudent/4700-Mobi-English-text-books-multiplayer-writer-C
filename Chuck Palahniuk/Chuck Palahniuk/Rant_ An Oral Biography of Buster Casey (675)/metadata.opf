@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff62d35e-d78d-4d7b-ae84-2f923a701a5d</dc:identifier>
+        <dc:title>Rant: An Oral Biography of Buster Casey</dc:title>
+        <dc:creator opf:file-as="Palahniuk, Chuck" opf:role="aut">Chuck Palahniuk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-05-01T11:04:34.123000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+The *Rant Limited Edition*** **is specially packaged in a one-piece preprinted case, printed black, with the title created in spot gloss; a 4-color slipcase that matches the original jacket of the trade book; a 1/8" ribbon marker; a signed tip-in sheet, speckled edges; and an exclusive 1300-word "Automotive Afterword" entitled "Recipes for Disasters" which is not available in print anywhere but only in this limited edition. **“Like most people I didn’t meet Rant Casey until after he was dead. That’s how it works for most celebrities: After they croak, their circle of friends just explodes…”***Rant* is the mind-bending new novel from Chuck Palahniuk, the literary provocateur responsible for such books as the generation-defining classic Fight Club and the pedal-to-the-metal horrorfest Haunted. It takes the form of an oral history of one Buster “Rant” Casey, who may or may not be the most efficient serial killer of our time. **“What ‘Typhoid Mary’ Mallon was to typhoid, what Gaetan Dugas was to AIDS, and Liu Jian Lun was to SARS, Buster Casey would become for rabies.” **A high-school rebel who always wins (and a childhood murderer?), Rant Casey escapes from his small hometown of Middleton for the big city. He becomes the leader of an urban demolition derby called Party Crashing. On appointed nights participants recognize each other by such designated car markings as “Just Married” toothpaste graffiti and then stalk and crash into each other. Rant Casey will die a spectacular highway death after which his friends gather testimony needed to build an oral history of his short, violent life. Their collected anecdotes explore the possibility that his saliva caused a silent urban plague of rabies and that he found a way to escape the prison house of linear time…**“The future you have, tomorrow, won’t be the same future you had, yesterday.”–Rant Casey**Expect hilarity, horror, and blazing insight into the desperate and surreal contemporary human condition as only Chuck Palahniuk can deliver it. He's the postmillennial Jonathan Swift, the visionary to watch to learn what's–uh-oh–coming next.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385523295</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-05T20:14:17.870195+00:00" name="calibre:timestamp"/>
+        <meta content="Rant: An Oral Biography of Buster Casey" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;, &quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

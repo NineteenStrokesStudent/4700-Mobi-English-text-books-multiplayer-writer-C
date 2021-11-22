@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed71287e-4ae8-4138-8081-0794fa2d59fc</dc:identifier>
+        <dc:title>Moon's Web</dc:title>
+        <dc:creator opf:file-as="Adams, C. T. &amp; Clamp, Cathy" opf:role="aut">C. T. Adams</dc:creator>
+        <dc:creator opf:file-as="Adams, C. T. &amp; Clamp, Cathy" opf:role="aut">Cathy Clamp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-27T22:00:00+00:00</dc:date>
+        <dc:description>Tony Giodone made his living as an assassin—until one of his marks ripped his throat out and turned him into a werewolf. Now he’s the best hired killer there is.
+
+When a curvy woman in an expensive suit tries to hire him to kill her, his wolf senses insist that she is his mate. One kidnapping, a plethora of gunfights, a psychic coma, and two faked deaths later, Tony and Sue have new identities and are hiding in a community of Sazi shapeshifters. All seems well, until Sue begins to pull away from Tony and he realizes that if he can’t be more open with her, he’s going to lose her. To add to his problems, Tony is getting flashes of other peoples’ lives—but he wants it to stop, because he’s learning things he shouldn’t.
+
+What’s more dangerous than a psychic-powered werewolf assassin? Whatever it is, it’s kidnapping and killing female Sazi . . . after it sucks out their powers. Its latest captive is the girlfriend of Carmine, the Mafia don who used to be Tony’s boss. To get her back, Carmine will make war on all the Sazi—and while the Sazi would win, they can’t afford to be exposed to the humans. Now it’s up to Tony &amp; Sue to save Carmine’s girlfriend— and possibly all of humanity!
+
+They could really use the help of Bobby, the python member of the Sazi police force Wolven. But Bobby is a bit preoccupied. It seems that Chicago’s Indonesian pack enforcer, Asri Kho, a deadly Komodo Dragon on the full moon, makes his knees weak whenever she’s not trying to kill him.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Paranormal</dc:subject>
+        <meta content="Tales of the Sazi" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-27T22:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Moon's Web" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Paranormal&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

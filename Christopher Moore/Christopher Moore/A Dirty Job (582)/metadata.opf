@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">582</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3dae9fb3-00c1-4c9a-ac08-98a0364f72d9</dc:identifier>
+        <dc:title>A Dirty Job</dc:title>
+        <dc:creator opf:file-as="Moore, Christopher" opf:role="aut">Christopher Moore</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Charlie Asher is a pretty normal guy. A little hapless, somewhat neurotic, sort of a hypochondriac. He's what's known as a Beta Male: the kind of fellow who makes his way through life by being careful and constant -- you know, the one who's always there to pick up the pieces when the girl gets dumped by the bigger/taller/stronger Alpha Male.  
+
+ But Charlie's been lucky. He owns a building in the heart of San Francisco, and runs a secondhand store with the help of a couple of loyal, if marginally insane, employees. He's married to a bright and pretty woman who actually loves him for his normalcy. And she, Rachel, is about to have their first child.  
+
+ Yes, Charlie's doing okay for a Beta. That is, until the day his daughter, Sophie, is born. Just as Charlie -- exhausted from the birth -- turns to go home, he sees a strange man in mint-green golf wear at Rachel's hospital bedside, a man who claims that no one should be able to see him. But see him Charlie does, and from here on out, things get really weird. . . .  
+
+ People start dropping dead around him, giant ravens perch on his building, and it seems that everywhere he goes, a dark presence whispers to him from under the streets. Strange names start appearing on his nightstand notepad, and before he knows it, those people end up dead, too. Yup, it seems that Charlie Asher has been recruited for a new job, an unpleasant but utterly necessary one: Death. It's a dirty job. But hey, somebody's gotta do it.  
+
+ Christopher Moore, the man whose *Lamb* served up Jesus' "missing years" (with the funny parts left in), and whose *Fluke* found the deep humor in whale researchers' lives, now shines his comic light on the undiscovered country we *all* eventually explore -- death and dying -- and the results are hilarious, heartwarming, and a hell of a lot of fun.</dc:description>
+        <dc:publisher>Wheeler Pub.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781597223164</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Humor</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-06-15T09:01:42+00:00" name="calibre:timestamp"/>
+        <meta content="Dirty Job, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Humor&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

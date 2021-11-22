@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95c234a5-45e6-481b-b10d-5467491359c1</dc:identifier>
+        <dc:title>Sword of God</dc:title>
+        <dc:creator opf:file-as="Kuzneski, Chris" opf:role="aut">Chris Kuzneski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-15T03:01:52.248000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Retired soldiers Jonathon Payne and D.J. Jones return to action (after last year's Sign of the Cross), investigating a secret bunker off the coast of Korea where a gruesome scene and a missing squad from their former unit, an elite counterinsurgency team, indicate that secret interrogation proceedings have gone terribly wrong. Piecing together the facts of the case lead Payne and Jones to Mecca, where a plot to blow up the Grand Mosque suggests a global conspiracy to align forces against the United States. Soon Payne and Jones have to risk their lives to infiltrate Mecca (where non-Muslims can be summarily executed) to save the city and, ultimately, the world. Kuzneski's novel is taut and largely fast-paced; though occasionally bogged down in historical exposition, it's a fair trade that gives the book a rich sense of authenticity and plausibility. Though characters are short on depth, Kuzneski knows how to maintain a nuanced moral landscape while wresting maximum thrills from contemporary Western fear of terrorism. This globe-crossing action thriller, like its predecessor, evokes the spirit of Dan Brown, with welcome doses of Lee Child's ex-military tough-guy grit. (Oct.) 
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.</dc:description>
+        <dc:publisher>Jove Books (2007年9月25日)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780515143560</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Payne and Jones" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-08T02:58:43.110000+00:00" name="calibre:timestamp"/>
+        <meta content="Sword of God" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

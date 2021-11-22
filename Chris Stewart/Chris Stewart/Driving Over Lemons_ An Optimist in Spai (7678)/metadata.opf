@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9f07411-a231-4a95-ab33-c01ab84fa4d2</dc:identifier>
+        <dc:title>Driving Over Lemons: An Optimist in Spain</dc:title>
+        <dc:creator opf:file-as="Stewart, Chris" opf:role="aut">Chris Stewart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-05-08T17:45:49.447000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+&lt;p&gt;When English sheep shearer Chris Stewart (once a drummer for Genesis) bought an isolated farmhouse in the mountains outside of Granada, Spain, he was fully aware that it didn't have electricity, running water, or access to roads. But he had little idea of the headaches and hilarity that would follow (including scorpions, runaway sheep, and the former owner who won't budge). He also had no idea that his memoir about southern Spain would set a standard for literary travel writing. 
+&lt;/p&gt;
+&lt;p&gt;This rip-roaringly funny book about seeking a place in an earthy community of peasants and shepherds gives a realistic sense of the hassles and rewards of foreign relocation. Part of its allure stems from the absence of rose-colored glasses, mainly Stewart's refusal to merely coo about the piece of heaven he's found or to portray all residents as angels. Stewart's hilarious and beautifully written passages are deep in their honest perceptions of the place and the sometimes xenophobic natives, whose reception of the newcomers ranges from warm to gruff.
+&lt;/p&gt;
+&lt;p&gt;After reading about struggles with dialects, animal husbandry, droughts, flooding, and such local rituals as pig slaughters and the rebuilding of bridges, you may not wish to live Chris Stewart's life. But you can't help but admire him and his wife, Ana, for digging out a niche in these far-flung mountains, for successfully befriending the denizens, and for so eloquently and comically telling the truth. The rich, vibrant, and unromanticized candor of &lt;em&gt;Driving over Lemons&lt;/em&gt; makes it a laudable standout in a genre too often typified by laughable naiveté. &lt;em&gt;--Melissa Rossi&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Stewart, a former drummer in Genesis, middle-aged travel writer and professional sheepshearer, never quite explains why he and his wife, Ana, decided to quit England 11 years ago for a dilapidated farm without electricity, water or even a road in Andaluc!a, Spain. Perhaps the olives, almonds and rosemary had something to do with it. Stewart clearly has found contentment in his good place among a lovingly described collection of local farmers, New Age travelers, artists and the occasional Buddhist. His hilly farm is a harsher place than Peter Mayle's Provence or Frances Mayes's Tuscany, and the local cuisine far less appetizing, yet his unfailing good humor and invincible optimism carry him past obstacles that would send most readers scurrying for home. More than a travel book, this is a record of Stewart's slowly flourishing friendship with his neighbor, Domingo, and of how Stewart gradually sank roots deep into his beautiful Andaluc!an hillside. A bestseller in England, this enchanting memoir is likely to prove popular in North America with both armchair travelers and readers who, while curious about the odd life choices others make, would just as soon give scorpions and clouds of flies a miss. (May) &lt;br /&gt;
+Copyright 2000 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Vintage Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780375709159</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Travel</dc:subject>
+        <meta content="Driving Over Lemons" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:34:43.381000+00:00" name="calibre:timestamp"/>
+        <meta content="Driving Over Lemons: An Optimist in Spain" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Travel&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

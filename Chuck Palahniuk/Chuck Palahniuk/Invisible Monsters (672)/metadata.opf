@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">672</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">368c3f11-b150-4cd5-993f-fb21b97c7902</dc:identifier>
+        <dc:title>Invisible Monsters</dc:title>
+        <dc:creator opf:file-as="Palahniuk, Chuck" opf:role="aut">Chuck Palahniuk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-05-15T04:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+She's a fashion model who has everything: a boyfriend, a career, a loyal best friend. But when a sudden freeway "accident" leaves her disfigured and incapable of speech, she is transformed from the beautiful center of attention to an invisible monster, so hideous that no one will acknowledge she exists. Enter Brandy Alexander, Queen Supreme, one operation away from becoming a real woman, who will teach her that reinventing yourself means erasing your past and making up something better. And that salvation hides in the last places you'll ever want to look.
+
+SUMMARY:
+The career of a model ends when she is disfigured in an accident. Suspecting the accident was the work of her ex-boyfriend and his new girlfriend, she takes revenge by slipping him a drug to grow breasts.
+
+EDITORIAL REVIEW:
+
+Ever heard of a culling song?  It’s a lullaby sung in Africa to give a painless death to the old or infirm.  The lyrics of a culling song kill, whether spoken or even just thought.  You can find one on page 27 of **Poems and Rhymes from Around the World**, an anthology that is sitting on the shelves of libraries across the country, waiting to be picked up by unsuspecting readers.Reporter Carl Streator discovers the song’s lethal nature while researching Sudden Infant Death Syndrome, and before he knows it, he’s reciting the poem to anyone who bothers him. As the body count rises, Streator glimpses the potential catastrophe if someone truly malicious finds out about the song. The only answer is to find and destroy every copy of the book in the country. Accompanied by a shady real-estate agent, her Wiccan assistant, and the assistant’s truly annoying ecoterrorist boyfriend, Streator begins a desperate cross-country quest to put the culling song to rest.Written with a style and imagination that could only come from Chuck Palahniuk, **Lullaby** is the latest outrage from one of our most exciting writers at work today.</dc:description>
+        <dc:publisher>W.W. Norton</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780393319293</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-05T20:02:15.956561+00:00" name="calibre:timestamp"/>
+        <meta content="Invisible Monsters" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;, &quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

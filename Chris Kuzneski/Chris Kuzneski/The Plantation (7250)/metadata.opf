@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7250</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3d649bc-7f3b-4d6e-b94b-648971cc5a8d</dc:identifier>
+        <dc:title>The Plantation</dc:title>
+        <dc:creator opf:file-as="Kuzneski, Chris" opf:role="aut">Chris Kuzneski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-07T03:02:16.583000+00:00</dc:date>
+        <dc:description>SUMMARY:
+The first to disappear is a ski instructor, out for a morning jog in the secluded mountains of Colorado. Hours later, a pregnant woman is abducted from a crowded hospital and smuggled past security without a hitch. Two places, two incidents, a single motive. One by one, in cities across America, people of all ages are being taken from their homes, their cars, their lives. But these aren't random kidnappings. They're crimes of passion, planned and researched several months in advance, then executed with a singular objective in mind. Ariane Walker is one of the victims, dragged from her apartment with no obvious signs of a struggle. The cops said there is little they can do for her. There isn't enough evidence to go on. Not enough time has passed. But that isn't good enough for Jonathon Payne. He loves Ariane and isn't about to sit around while her trail runs cold. Using the skills that he learned in the Maniacs, a special branch of the U.S. military, Payne and his best friend, David Jones, give chase, trekking to New Orleans on little more than a whim, hoping that Payne's gut instinct pays off. It does. With the help of several locals, the duo slowly begin to uncover the mystery of Walker's abduction and the shocking truth behind Louisiana's best-kept secret; The Plantation.</dc:description>
+        <dc:publisher>Berkley Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780425222379</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Payne and Jones" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-08T02:59:20.919000+00:00" name="calibre:timestamp"/>
+        <meta content="Plantation, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

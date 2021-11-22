@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6863</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b5515a4-7001-4e8c-9af5-8ea2e1fb8c3b</dc:identifier>
+        <dc:title>Genghis: Bones of the Hills: A Novel</dc:title>
+        <dc:creator opf:file-as="Iggulden, Conn" opf:role="aut">Conn Iggulden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+From Conn Iggulden, #1 bestselling author of six historical epics and coauthor of the international sensation The Dangerous Book for Boys, comes a magnificent new work of fiction. Here, the Mongol conqueror Genghis Khan, stalked by enemies seen and unseen and plagued by a divided family, leads a sprawling force of horsemen beyond the realm of their known world. He will bring a storm to Arab lands and face the armies of the shah in all their strength.From the fierce cold plains of Mongolia to the Korean Peninsula, Genghis’s brothers, sons, and commanders have made emperors bow, slaughtering vast armies of fighting men. But as Genghis enters a strange new land of towering mountains and arid desert, he stirs an enemy greater than any he has met before. Under his command, Shah Ala-ud-Din Mohammed has thousands of fierce Arab warriors, teeming cavalry, and terrifying armored elephants. When Genghis strikes, the Arabs prove their mettle. On the verge of defeat, Genghis is forced to leave his own vast encampment, and the women and children in it, in the path of an enraged, savage enemy.While the Mongols—men, women, and children—fight back, as secret assassins are sent into the night, another battle is taking shape. Two of Genghis’s sons, Jochi and Chagatai, are steeped in enmity. Warriors choose between them, and a murderer commits an unspeakable crime. Soon the most powerful man in the world, who has brought devastation to this land, must choose a successor. And when he does, it will touch off the most bitter conflict of all.In a novel that ranges from the fertile lands of the Chin to the dust and rock of Afghanistan, Conn Iggulden weaves the epic story of history’s most enigmatic conqueror —those who feared him, those who defied him, and those whose bones he left behind.From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385342803</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="Conqueror" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-30T21:50:15.401000+00:00" name="calibre:timestamp"/>
+        <meta content="Genghis: Bones of the Hills: A Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

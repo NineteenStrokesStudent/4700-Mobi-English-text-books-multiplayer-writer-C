@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2386cfbb-d52d-4bf1-a653-e44572b1b5d7</dc:identifier>
+        <dc:title>Already Dead</dc:title>
+        <dc:creator opf:file-as="Huston, Charlie" opf:role="aut">Charlie Huston</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-27T06:52:29.054000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Those stories you hear? The ones about things that only come out at night? Things that feed on blood, feed on us? Got news for you: they’re true. Only it’s not like the movies or old man Stoker’s storybook. It’s worse. Especially if you happen to be one of them. Just ask Joe Pitt.There’s a shambler on the loose. Some fool who got himself infected with a flesh-eating bacteria is lurching around, trying to munch on folks’ brains. Joe hates shamblers, but he’s still the one who has to deal with them. That’s just the kind of life he has. Except afterlife might be better word.From the Battery to the Bronx, and from river to river, Manhattan is crawling with Vampyres. Joe is one of them, and he’s not happy about it. Yeah, he gets to be stronger and faster than you, and he’s tough as nails and hard to kill. But spending his nights trying to score a pint of blood to feed the Vyrus that’s eating at him isn’t his idea of a good time. And Joe doesn’t make it any easier on himself. Going his own way, refusing to ally with the Clans that run the undead underside of Manhattan–it ain’t easy. It’s worse once he gets mixed up with the Coalition–the city’s most powerful Clan–and finds himself searching for a poor little rich girl who’s gone missing in Alphabet City.Now the Coalition and the girl’s high-society parents are breathing down his neck, anarchist Vampyres are pushing him around, and a crazy Vampyre cult is stalking him. No time to complain, though. Got to find that girl and kill that shambler before the whip comes down . . . and before the sun comes up.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345478245</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Detective</dc:subject>
+        <meta content="Joe Pitt" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-23T20:37:49.505000+00:00" name="calibre:timestamp"/>
+        <meta content="Already Dead" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Detective&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

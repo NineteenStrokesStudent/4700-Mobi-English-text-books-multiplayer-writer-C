@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f0697b8-d38e-47ea-842a-10255a068d81</dc:identifier>
+        <dc:title>98.6 degrees: the art of keeping your ass alive</dc:title>
+        <dc:creator opf:file-as="Lundin, Cody" opf:role="aut">Cody Lundin</dc:creator>
+        <dc:creator opf:file-as="Lundin, Cody" opf:role="aut">Russ Miller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-06-15T23:22:59.970000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+$14.95 gatefold paper * 1-58685-234-5 * May    
+
+6 x 9 in, 192 pp, 70 Line Drawings, 16 Color Photo Pages    
+
+Rights: W, Survival/Nature            
+
+"If you breathe and have a pulse, you NEED this book."       
+
+ -Cody Lundin         
+
+Cody Lundin, director of the Aboriginal Living Skills School in Prescott, Arizona, shares his own brand of wilderness wisdom in this highly anticipated new book on commonsense, modern survival skills for the backcountry, the backyard, or the highway. It is the ultimate book on how to stay alive-based on the principal of keeping the body's core temperature at a lively 98.6 degrees. In his entertaining and informative style, Cody stresses that a human can live without food for weeks, and without water for about three days or so. But if the body's core temperature dips much below or above the 98.6 degree mark, a person can literally die within hours. It is a concept that many don't take seriously or even consider, but knowing what to do to maintain a safe core temperature when lost in a blizzard or in the desert could save your life. Lundin delivers the message with wit, rebellious humor, and plenty of backcountry expertise.         
+
+Cody Lundin and his Aboriginal Living Skills School have been featured in dozens of national and international media sources, including Dateline NBC, CBS News, USA Today, The Donny and Marie Show, and CBC Radio One in Canada, as well as on the cover of Backpacker magazine. When not teaching for his own school, he is an adjunct faculty member at Yavapai College and a faculty member at the Ecosa Institute. Cody is the only person in Arizona licensed to catch fish with his hands, and lives in a passive solar earth home sixty miles from Prescott, Arizona.</dc:description>
+        <dc:publisher>Gibbs Smith</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781586852344</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Sports</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-13T22:52:13.346000+00:00" name="calibre:timestamp"/>
+        <meta content="98.6 degrees: the art of keeping your ass alive" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Reference&quot;, &quot;Sports&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
